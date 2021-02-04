@@ -1,0 +1,8 @@
+---
+- name: "My head"
+  hosts: blue
+    
+  tasks:
+
+  - name: "Hi"
+    debug: msg="hello"
