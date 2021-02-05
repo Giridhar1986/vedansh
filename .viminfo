@@ -34,18 +34,20 @@
 	q
 
 # File marks:
-'0  75  0  /etc/ansible/ansible.cfg
-'1  71  0  /etc/ansible/ansible.cfg
-'2  182  0  /etc/ansible/ansible.cfg
-'3  1  0  /etc/ansible/ansible.cfg
-'4  1  0  /etc/ansible/hosts
-'5  16  12  /etc/ansible/hosts
-'6  1  0  ~/play.yaml
-'7  4  1  ~/play.yaml
-'8  6  0  ~/play.yaml
-'9  8  21  ~/play.yaml
+'0  1  0  ~/giridhar/rt
+'1  1  0  ~/giridhar/rt.txt
+'2  75  0  /etc/ansible/ansible.cfg
+'3  71  0  /etc/ansible/ansible.cfg
+'4  182  0  /etc/ansible/ansible.cfg
+'5  1  0  /etc/ansible/ansible.cfg
+'6  1  0  /etc/ansible/hosts
+'7  16  12  /etc/ansible/hosts
+'8  1  0  ~/play.yaml
+'9  4  1  ~/play.yaml
 
 # Jumplist (newest first):
+-'  1  0  ~/giridhar/rt
+-'  1  0  ~/giridhar/rt.txt
 -'  75  0  /etc/ansible/ansible.cfg
 -'  1  0  /etc/ansible/ansible.cfg
 -'  71  0  /etc/ansible/ansible.cfg
@@ -141,11 +143,17 @@
 -'  1  0  /etc/host
 -'  4  11  /etc/resolv.conf
 -'  1  0  /etc/resolv.conf
--'  1  0  /etc/host
--'  1  0  /etc/host
--'  4  11  /etc/resolv.conf
 
 # History of marks within files (newest to oldest):
+
+> ~/giridhar/rt
+	"	1	0
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/giridhar/rt.txt
+	"	1	0
 
 > /etc/ansible/ansible.cfg
 	"	75	0

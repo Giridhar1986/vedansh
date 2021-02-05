@@ -317,3 +317,37 @@ git init
 cd .git
 ls -lrth
 cd ..
+ls -lrth
+git config user.name
+git config --global user.name "Giridhar"
+git config user.name
+git config --global user.email "Giridhargwd@gmail.com"
+git config user.email
+git init
+cd .git
+git add .
+cd ..
+git add .
+git commit
+git commit -m "ff"
+git remote add origin https://github.com/Giridhar1986/vedansh.git
+git push -u origin master
+ls -lrth
+cd .git
+ls -lrth
+cd ..
+mkdir git
+cd git
+git add .
+git commit -m "ff"
+touch hlu.yml
+git add .
+git commit -m "ff"
+cd .git
+cd ..
+cd .git
+ls -lrth
+git status
+git add .Xauthority
+git status
+git status -s
